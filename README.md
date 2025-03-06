@@ -92,6 +92,7 @@ Interfaces help define common behavior across unrelated classes.
 Interface Notification
 EmailNotification & SmsNotification implement it.
 
+
 ✅ Why Interfaces?
 
 Enables multiple implementations (email, SMS, WhatsApp).
